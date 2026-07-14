@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/BILIEUX/FACEIT-TRACKER/main/firmware_1.0.0.ino.bin",
-    "sha256": "2b947de2720f2d305acd3442389be5945d5eeffa8ce051991411f72d790b1e9c"
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/BILIEUX/FACEIT-TRACKER/main/firmware_1.0.1.ino.bin",
+        "sha256": "b810048141a1df07419214345f0d781f14a2ca87d0d6ccc324cd03591f8201dc"
 }
